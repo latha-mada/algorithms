@@ -1,0 +1,4 @@
+[submodule "nasdaqtest"]
+	path = nasdaqtest
+	url = https://github.com/latha-mada/nasdaqtest.git
+	branch = latha_branch
